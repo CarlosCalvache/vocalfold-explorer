@@ -1,0 +1,35 @@
+{
+  "title": "VocalFold Explorer",
+  "upload_type": "software",
+  "description": "VocalFold Explorer is an interactive educational web application implementing a low-dimensional body-cover model for vocal fold geometry, mechanics, and glottal-cycle visualization.",
+  "creators": [
+    {
+      "name": "Calvache, Carlos",
+      "affiliation": "Vocology Center"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "vocal folds",
+    "body-cover model",
+    "voice science",
+    "vocology",
+    "computational model",
+    "educational software",
+    "Streamlit"
+  ],
+  "version": "1.0.1",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://vocalfold-explorer.streamlit.app/",
+      "scheme": "url"
+    },
+    {
+      "relation": "isSourceOf",
+      "identifier": "https://github.com/CarlosCalvache/vocalfold-explorer",
+      "scheme": "url"
+    }
+  ]
+}
