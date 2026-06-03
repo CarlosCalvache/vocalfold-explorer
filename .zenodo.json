@@ -5,6 +5,7 @@
   "creators": [
     {
       "name": "Calvache, Carlos",
+      "orcid": "0000-0002-5403-1852",
       "affiliation": "Vocology Center"
     }
   ],
@@ -19,7 +20,7 @@
     "educational software",
     "Streamlit"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
